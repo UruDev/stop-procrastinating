@@ -1,5 +1,5 @@
 # stop-procrastinating
-A solid time manager integreted with Google Calendar
+A solid time manager integrated with Google Calendar
 
 Planned features:
   * Calendar view
